@@ -1,0 +1,13 @@
+[
+  {
+    "name": "plugin-verified-number",
+    "version": "0.0.0",
+    "class": "VerifiedNumberPlugin",
+    "requires": [
+      {
+        "@twilio/flex-ui": "^1"
+      }
+    ],
+    "src": "http://localhost:3000/plugin-verified-number.js"
+  }
+]
